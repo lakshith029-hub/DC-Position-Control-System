@@ -8,7 +8,7 @@ To control the position of motor having the following specifications using MATLA
 (La)     armature inductance  =              0.5 H<br>
 (Kb)      back emf constant = 0.5<br>
 ## Apparatus Required:
-Computer with MATLAB software
+Computer with MATLAB software.
 ## Theory: 
 
 
