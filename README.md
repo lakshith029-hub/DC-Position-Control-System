@@ -12,7 +12,7 @@ Computer with MATLAB software
 ## Theory: 
 
 
-## Procedure:
+## Procedure
 1.	Open MATLAB software
 2.	Open a new script file.
 3.	Type the program.
